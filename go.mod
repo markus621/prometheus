@@ -1,4 +1,4 @@
-module gorm.io/plugin/prometheus
+module github.com/markus621/prometheus
 
 go 1.14
 
